@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http:///backend/rabbitmq",
+            "request": "launch",
+            "url": "http:///backend/rabbitmq"
+        }
+    ]
+}
